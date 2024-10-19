@@ -1,0 +1,1 @@
+# WebScapper using Scellium and Ollama
